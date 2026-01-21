@@ -5,7 +5,7 @@ Hands-on incident response case study investigating brute-force login attempts u
 📌 **Target Role:** SOC Analyst (Mid-level)  
 🧱 **Framework:** NIST 800-61 (Preparation → Detection/Analysis → Containment/Eradication/Recovery → Post-Incident)
 
-📎 **Diagram attached:** `diagrams/sentinel-mde-bruteforce-flow.png`  
+📎 **Diagram attached:** `sentinel-mde-bruteforce-flow (1).png`  
 (Shows: Internet → Endpoint(s) → MDE telemetry → Sentinel analytics rule → Incident → Response actions)
 
 
